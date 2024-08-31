@@ -17,7 +17,7 @@ function App() {
         <AddTransaction/>
       </div>
       <div className="footer">
-        <h5>Made with ❤️ By <span><a href="https://www.linkedin.com/in/shoaibbb/">Shoaib</a></span> </h5>
+        <h5>Developed with ❤️ By <span><a href="https://www.linkedin.com/in/shoaibbb/">Shoaib</a></span> </h5>
       </div>
     </GlobalProvider>
   )
